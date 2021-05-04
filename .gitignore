@@ -19,4 +19,4 @@ src/graphql/schema.json
 coverage/
 
 # env
-.env.json
+#.env.json
